@@ -1,0 +1,1 @@
+console.log(`Current commit hash: ${process.env.GITHUB_SHA}`);
